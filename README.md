@@ -1,4 +1,4 @@
-# Project 7 - *Name of App Here*
+# Project 7 - *To Do List*
 
 Submitted by: Sy Traore
 
