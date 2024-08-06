@@ -1,8 +1,6 @@
 # Project - *To Do List*
 
-Submitted by: Sy Traore
-
-Task is an app that allos user to make a list of tasks to do and set a date in the calendar. 
+*To Do List* is an app that allos user to make a list of tasks to do and set a date in the calendar. 
 
 Time spent: 2 hours spent in total
 
