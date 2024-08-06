@@ -1,4 +1,4 @@
-# Project 7 - *To Do List*
+# Project - *To Do List*
 
 Submitted by: Sy Traore
 
